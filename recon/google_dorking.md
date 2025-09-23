@@ -31,6 +31,7 @@ To use these resources, clone the repository and try out the example Google dork
 
 ## Example Google Dorks
 
+```text
 intitle:"index of" "password"
 filetype:env "DB_PASSWORD"
 inurl:login
@@ -39,20 +40,3 @@ site:example.com intext:"confidential"
 inurl:read.php?=
 inurl:profile_view.php?id=
 filename:.npmrc _auth
-
----
-
-## Useful Google Dork Resources
-
-- [Google Dork Cheatsheet by sundowndev](https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06)[web:3]
-- [GitHub Dorks for Leaked Secrets](https://github.com/techgaun/github-dorks)[web:13]
-- [Google Dorks Toolkit](https://github.com/SalehLardhi/google-dorks-toolkit)[web:10]
-
-## References
-
-- Exploit Database: [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
-- Offensive Security: [GHDB Overview](https://www.exploit-db.com/google-hacking-database)
-- More dork examples: [neospl0it/Dorks](https://github.com/neospl0it/Dorks)[web:11]
-
-## License
-Distributed under the MIT License. See LICENSE for more information.
