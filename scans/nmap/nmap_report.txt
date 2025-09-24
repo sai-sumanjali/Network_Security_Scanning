@@ -1,3 +1,5 @@
+# nmap scan report
+
 zsh: corrupt history file /home/kali/.zsh_history
 ┌──(kali㉿kali)-[~]
 └─$ nmap 192.168.0.109
