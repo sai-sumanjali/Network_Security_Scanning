@@ -1,4 +1,4 @@
-# nmap scan report
+nmap scan report
 
 zsh: corrupt history file /home/kali/.zsh_history
 ┌──(kali㉿kali)-[~]
